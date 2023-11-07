@@ -1,5 +1,5 @@
 public class file3 {
     public static void main(String[] args) {
-        System.out.println("Hello file3");
+        System.out.println("Welcome to AWS ");
     }
 }
